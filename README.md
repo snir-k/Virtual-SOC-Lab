@@ -7,6 +7,7 @@ After every Attack, I've made research by tools like: Wireshark & ELK Stack - Ki
 The results saved in folders by name of the tools.
 
 I've choose to use Virtualbox platform. I've installed and configured my SOC Lab as follow:
+
 Pfsence 2.4.5	Interfaces: WAN, SERVERS, LAN. Package of Snort was installed also.
 
 Hosts:
