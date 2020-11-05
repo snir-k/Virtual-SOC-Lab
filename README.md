@@ -76,4 +76,5 @@ Scenario: The Attacker uses Kali VM to attack Windows Server 2012 R2 with Pass T
 
 The Attack Vectors results can be download here:
 https://mega.nz/file/xYt2DJ4b#35e9X0B03S99lCNNLzVaop-cGfHRUjfcJkg4dWl7dis
+
 Password for the zip file: soclab2020
