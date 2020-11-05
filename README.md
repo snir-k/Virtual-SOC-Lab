@@ -1,3 +1,5 @@
+View my Linkedin profile:
+https://www.linkedin.com/in/Snir-Kanias/
 
 Assessment Lab-SOC Environment Of Snir Kanias 2020
 
@@ -70,3 +72,6 @@ Target: Run msfconsole (metasploit) from Kali Linux terminal and use payload to 
 Tools: Metasploit, John The Ripper,
 Scenario: The Attacker uses Kali VM to attack Windows Server 2012 R2 with Pass The Hash. His goal to get the hash of the administrator and convert it to a clear text password.
 
+The Attack Vectors results can be download here:
+https://mega.nz/file/xYt2DJ4b#35e9X0B03S99lCNNLzVaop-cGfHRUjfcJkg4dWl7dis
+Password for the zip file: soclab2020
