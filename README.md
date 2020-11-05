@@ -13,36 +13,34 @@ I've choose to use Virtualbox platform. I've installed and configured my SOC Lab
 Pfsence 2.4.5	Interfaces: WAN, SERVERS, LAN. Package of Snort was installed also.
 
 Hosts:
-Kali 2019                 ip Address: 10.10.0.5		       Net Mask: 255.255.255.0 Prefix: 24
-	                        Default Gateway: 10.10.0.1 	   DNS Server: 10.10.1.1, 8.8.8.8
-Windows 7	                ip Address: 10.10.0.4		       Net Mask: 255.255.255.0 Prefix: 24
-		                      Default Gateway: 10.10.0.1 	   DNS Server: 10.10.1.1, 8.8.8.8
-Windows 7	                ip Address: 10.10.0.3		       Net Mask: 255.255.255.0 Prefix: 24
-WinSer.Domain	            Default Gateway: 10.10.0.1 	   DNS Server: 10.10.1.1, 8.8.8.8
-
-Windows Server 2012R2     ip Address: 10.10.1.100		     Net Mask: 255.255.255.0 Prefix: 24
-                   	      Default Gateway: 10.10.0.1 	   DNS Server: 10.10.1.1, 8.8.8.8
-
-ELK		                    ip Address: 10.10.1.6		       Net Mask: 255.255.255.0 Prefix: 24
-	 	                      Default Gateway: 10.10.0.1 	   DNS Server: 10.10.1.1, 8.8.8.8
+Kali 2019 | ip Address: 10.10.0.5 | Net Mask: 255.255.255.0 Prefix: 24
+Default Gateway: 10.10.0.1 | DNS Server: 10.10.1.1, 8.8.8.8
+Windows 7 | ip Address: 10.10.0.4 | Net Mask: 255.255.255.0 Prefix: 24
+Default Gateway: 10.10.0.1 | DNS Server: 10.10.1.1, 8.8.8.8
+Windows 7 | ip Address: 10.10.0.3 | Net Mask: 255.255.255.0 Prefix: 24
+WinSer.Domain | Default Gateway: 10.10.0.1 | DNS Server: 10.10.1.1, 8.8.8.8
+Windows Server 2012R2 | ip Address: 10.10.1.100 | Net Mask: 255.255.255.0 Prefix: 24
+Default Gateway: 10.10.0.1 | DNS Server: 10.10.1.1, 8.8.8.8
+ELK | ip Address: 10.10.1.6 | Net Mask: 255.255.255.0 Prefix: 24
+Default Gateway: 10.10.0.1 | DNS Server: 10.10.1.1, 8.8.8.8
 
 pfsence
 No Need for User name Or Password.
 
 ELK Server
-User Name: eliot		Password: emperor
+User Name: eliot | Password: emperor
 
 Windows Server 2012 (Change Keyboard Language to EN)
-User Name: Administrator	Password: aA123456
+User Name: Administrator | Password: aA123456
 
 Windows 7 Bob WinServer Domain
-User Name: bob		Password: Q1A2Z3!
+User Name: bob | Password: Q1A2Z3!
 
 Windows 7 eliot user
-User Name: eliot		Password: kingartur
+User Name: eliot | Password: kingartur
 
 Kali Linux
-User Name: kali		Password: kingartur
+User Name: kali | Password: kingartur
 
 
 I've choose 3 scenarios in my project:
