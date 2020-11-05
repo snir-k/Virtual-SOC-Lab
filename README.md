@@ -1,6 +1,10 @@
 View my Linkedin profile:
 https://www.linkedin.com/in/Snir-Kanias/
 
+My Full report can be download here:
+https://mega.nz/file/8VsAADQC#sVEUL48UI97U1N8BuF1goQ2xeFCNYwu_HnPE9C80yEA
+
+
 Assessment Lab-SOC Environment Of Snir Kanias 2020
 
 This lab is simulating a SOC environment almost like in the real environment, 
